@@ -17,6 +17,11 @@ This project outlines the steps to set up a CI/CD pipeline using Jenkins for a N
 ![Screenshot (101)](https://github.com/user-attachments/assets/e79c605b-88bf-451c-8fe6-c8250248e4dd)
 
 1. Choose an instance with sufficient resources. In this project t2.micro is used on AWS.
-2. Configure security groups to allow SSH(port 22).
-3. Allow HTTP/HTTPS(port 80/ 443) access.
+2. Select the key-value pair.
+![Screenshot (102)](https://github.com/user-attachments/assets/9dbf5945-81ac-4ca1-ab71-96314182b9d7)
+3. Configure security groups to allow SSH(port 22).
+4. Allow HTTP/HTTPS(port 80/ 443) access.
+
+
+
 
